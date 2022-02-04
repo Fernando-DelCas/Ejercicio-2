@@ -155,7 +155,7 @@ footer {
         width: 100%;
         height: auto;
         display: block;
-        border: 20px, solid yellow;
+        border: 20px solid yellow;
     }
     .box4 {
         width: 90%;
@@ -177,7 +177,7 @@ footer {
     aside {
         width: 100%;
         display: block;
-        border: 20px, solid yellow;
+        border: 20px solid yellow;
     }  
 
     .box6 {
